@@ -1,0 +1,9 @@
+package db;
+
+public class DB {
+
+	//Creating static method for connect and disconnect of database
+	
+	//Method for load properties that exists in the file db.properties
+	
+}

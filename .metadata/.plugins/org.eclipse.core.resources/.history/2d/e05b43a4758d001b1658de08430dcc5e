@@ -1,0 +1,5 @@
+package db;
+
+public class DbException extends RuntimeException {
+	private static final long userIDFinalVersionUID = 1L;
+}
